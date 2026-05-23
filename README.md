@@ -20,6 +20,10 @@ It is an `Ionic React` + `TypeScript` + `Capacitor` mobile todo/shopping list ap
 - Local persistence via `Capacitor Filesystem`
 - Android packaging through `Capacitor`
 
+For setup, features and project-specific details, see the project README:
+
+[`IDATT2506-ProsjektOving/idatt2506-prosjektoving/README.md`](IDATT2506-ProsjektOving/idatt2506-prosjektoving/README.md)
+
 ## Folder Overview
 | Folder | Description |
 |---|---|
@@ -50,6 +54,10 @@ It is an `Ionic React` + `TypeScript` + `Capacitor` mobile todo/shopping list ap
 - `TypeScript`
 - `Capacitor`
 - `Vite`
+
+A short overview of all exercises is available here:
+
+[`docs/exercises.md`](docs/exercises.md)
 
 ## Repository Structure
 ```text
